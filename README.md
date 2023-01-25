@@ -20,3 +20,11 @@
 # swap numbers-shell
 
 <img width="212" alt="shell4" src="https://user-images.githubusercontent.com/113408005/214248223-0c0c98fd-3343-496f-8996-17d5c074f88e.png">
+
+# arithmetic operations-shell
+
+![arthimatic operations](https://user-images.githubusercontent.com/112466183/214470992-d6c007d2-8055-4e7f-978b-71a1ef1da20f.jpg)
+
+# N natural numbers
+
+![N natural numbers](https://user-images.githubusercontent.com/112466183/214471349-b7f66ffa-2cb5-4617-a3e2-2c81d1d731e5.jpg)
