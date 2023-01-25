@@ -40,3 +40,7 @@
 # largest number
 
 ![largest number](https://user-images.githubusercontent.com/112466183/214480089-380ebbe2-9361-4300-80af-2fdc1299eb93.jpg)
+
+# binary to decimal
+
+<img width="238" alt="image" src="https://user-images.githubusercontent.com/112466183/214486323-2d731187-af38-4ecf-8eff-60e8df37b23f.png">
