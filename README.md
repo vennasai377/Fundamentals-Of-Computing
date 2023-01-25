@@ -28,3 +28,15 @@
 # N natural numbers
 
 ![N natural numbers](https://user-images.githubusercontent.com/112466183/214471349-b7f66ffa-2cb5-4617-a3e2-2c81d1d731e5.jpg)
+
+# leap year
+
+<img width="226" alt="leap year" src="https://user-images.githubusercontent.com/112466183/214479722-1426f352-4e45-4e7b-83fe-98ce9f49a808.png">
+
+# Marklist of students
+
+![marklist of students](https://user-images.githubusercontent.com/112466183/214480013-05e574f6-84c1-4f91-b30f-79c8fd4b5c0e.jpg)
+
+# largest number
+
+![largest number](https://user-images.githubusercontent.com/112466183/214480089-380ebbe2-9361-4300-80af-2fdc1299eb93.jpg)
