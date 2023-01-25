@@ -44,3 +44,7 @@
 # binary to decimal
 
 <img width="238" alt="image" src="https://user-images.githubusercontent.com/112466183/214486323-2d731187-af38-4ecf-8eff-60e8df37b23f.png">
+
+# palindrome
+
+![image](https://user-images.githubusercontent.com/112466183/214486773-b0d90a6c-2aa8-43e8-83de-c2c6d625b029.png)
