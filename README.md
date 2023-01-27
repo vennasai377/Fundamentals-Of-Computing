@@ -25,27 +25,27 @@
 
 ![arthimatic operations](https://user-images.githubusercontent.com/112466183/214470992-d6c007d2-8055-4e7f-978b-71a1ef1da20f.jpg)
 
-# N natural numbers
+# N natural numbers - shell
 
 ![N natural numbers](https://user-images.githubusercontent.com/112466183/214471349-b7f66ffa-2cb5-4617-a3e2-2c81d1d731e5.jpg)
 
-# leap year
+# leap year - shell
 
 <img width="226" alt="leap year" src="https://user-images.githubusercontent.com/112466183/214479722-1426f352-4e45-4e7b-83fe-98ce9f49a808.png">
 
-# Marklist of students
+# Marklist of students - shell
 
 ![marklist of students](https://user-images.githubusercontent.com/112466183/214480013-05e574f6-84c1-4f91-b30f-79c8fd4b5c0e.jpg)
 
-# largest number
+# largest number - shell
 
 ![largest number](https://user-images.githubusercontent.com/112466183/214480089-380ebbe2-9361-4300-80af-2fdc1299eb93.jpg)
 
-# binary to decimal
+# binary to decimal - shell
 
 <img width="238" alt="image" src="https://user-images.githubusercontent.com/112466183/214486323-2d731187-af38-4ecf-8eff-60e8df37b23f.png">
 
-# palindrome
+# palindrome shell
 
 ![image](https://user-images.githubusercontent.com/112466183/214486773-b0d90a6c-2aa8-43e8-83de-c2c6d625b029.png)
 
