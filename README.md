@@ -49,6 +49,10 @@
 
 ![image](https://user-images.githubusercontent.com/112466183/214486773-b0d90a6c-2aa8-43e8-83de-c2c6d625b029.png)
 
+# factorial -shell
+
+<img width="126" alt="fact" src="https://user-images.githubusercontent.com/113408005/214817331-bf5d8658-280e-4984-8952-daab8cc49e98.png">
+
 # c-number series
 
 <img width="142" alt="c-1" src="https://user-images.githubusercontent.com/113408005/214818842-8ad3df04-9a55-4149-9b23-324043c5b775.png">
@@ -79,6 +83,7 @@
 
 # c-summing up 1-2+3-4+...N
 
+<img width="179" alt="image" src="https://user-images.githubusercontent.com/113408005/214826662-e9fb381e-9773-4660-b0cd-cedeb24e47fc.png">
 
 # c-summing up square of odd numbers
 
