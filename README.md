@@ -127,3 +127,19 @@
 # c-octal to decimal
 
 <img width="145" alt="c-20" src="https://user-images.githubusercontent.com/113408005/214819693-f681e3ab-cd22-4724-98ab-2b8ce10c1693.png">
+
+# c-binary to decimal
+
+<img width="176" alt="c-21" src="https://user-images.githubusercontent.com/113408005/215079117-1e205099-9322-4a67-aad4-329331da8487.png">
+
+# c-decimal to binary
+
+<img width="124" alt="c-22" src="https://user-images.githubusercontent.com/113408005/215079148-7383a1d8-ec0b-4347-b92f-335f074c872b.png">
+
+# c-decimal to octal
+
+<img width="124" alt="c-22" src="https://user-images.githubusercontent.com/113408005/215079179-7a786634-d795-4fee-827f-b94b5f841d35.png">
+
+# c-decimal to hexadecimal
+
+
