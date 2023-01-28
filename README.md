@@ -142,4 +142,13 @@
 
 # c-decimal to hexadecimal
 
+<img width="203" alt="c-24" src="https://user-images.githubusercontent.com/113408005/215079217-7115ff91-bd8c-451b-b82f-c3c83a9b16fc.png">
+
+# print the digits of an integer
+
+<img width="139" alt="c-14" src="https://user-images.githubusercontent.com/113408005/215079253-d0c9c5af-c7de-4413-b478-b435664ab470.png">
+
+# swapping two numbers
+
+<img width="134" alt="c-26" src="https://user-images.githubusercontent.com/113408005/215081131-3463466b-e45d-4d4d-a3cd-8b08ff066d91.png">
 
